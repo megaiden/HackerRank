@@ -1,0 +1,15 @@
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\obj\Debug\net7.0\AlternatingCharacters.csproj.AssemblyReference.cache
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\obj\Debug\net7.0\AlternatingCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\obj\Debug\net7.0\AlternatingCharacters.AssemblyInfoInputs.cache
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\obj\Debug\net7.0\AlternatingCharacters.AssemblyInfo.cs
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\obj\Debug\net7.0\AlternatingCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\bin\Debug\net7.0\AlternatingCharacters.exe
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\bin\Debug\net7.0\AlternatingCharacters.deps.json
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\bin\Debug\net7.0\AlternatingCharacters.runtimeconfig.json
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\bin\Debug\net7.0\AlternatingCharacters.dll
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\bin\Debug\net7.0\AlternatingCharacters.pdb
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\obj\Debug\net7.0\AlternatingCharacters.dll
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\obj\Debug\net7.0\refint\AlternatingCharacters.dll
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\obj\Debug\net7.0\AlternatingCharacters.pdb
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\obj\Debug\net7.0\AlternatingCharacters.genruntimeconfig.cache
+C:\Users\Mishael\source\repos\HackerRank\AlternatingCharacters\obj\Debug\net7.0\ref\AlternatingCharacters.dll

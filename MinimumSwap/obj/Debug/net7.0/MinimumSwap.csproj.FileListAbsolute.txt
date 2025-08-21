@@ -1,0 +1,15 @@
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\bin\Debug\net7.0\MinimumSwap.exe
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\bin\Debug\net7.0\MinimumSwap.deps.json
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\bin\Debug\net7.0\MinimumSwap.runtimeconfig.json
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\bin\Debug\net7.0\MinimumSwap.dll
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\bin\Debug\net7.0\MinimumSwap.pdb
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\obj\Debug\net7.0\MinimumSwap.csproj.AssemblyReference.cache
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\obj\Debug\net7.0\MinimumSwap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\obj\Debug\net7.0\MinimumSwap.AssemblyInfoInputs.cache
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\obj\Debug\net7.0\MinimumSwap.AssemblyInfo.cs
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\obj\Debug\net7.0\MinimumSwap.csproj.CoreCompileInputs.cache
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\obj\Debug\net7.0\MinimumSwap.dll
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\obj\Debug\net7.0\refint\MinimumSwap.dll
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\obj\Debug\net7.0\MinimumSwap.pdb
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\obj\Debug\net7.0\MinimumSwap.genruntimeconfig.cache
+C:\Users\Mishael\source\repos\HackerRank\MinimumSwap\obj\Debug\net7.0\ref\MinimumSwap.dll

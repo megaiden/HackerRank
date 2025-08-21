@@ -1,0 +1,15 @@
+C:\Users\Mishael\source\repos\HackerRank\ValidString\bin\Debug\net7.0\ValidString.exe
+C:\Users\Mishael\source\repos\HackerRank\ValidString\bin\Debug\net7.0\ValidString.deps.json
+C:\Users\Mishael\source\repos\HackerRank\ValidString\bin\Debug\net7.0\ValidString.runtimeconfig.json
+C:\Users\Mishael\source\repos\HackerRank\ValidString\bin\Debug\net7.0\ValidString.dll
+C:\Users\Mishael\source\repos\HackerRank\ValidString\bin\Debug\net7.0\ValidString.pdb
+C:\Users\Mishael\source\repos\HackerRank\ValidString\obj\Debug\net7.0\ValidString.csproj.AssemblyReference.cache
+C:\Users\Mishael\source\repos\HackerRank\ValidString\obj\Debug\net7.0\ValidString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishael\source\repos\HackerRank\ValidString\obj\Debug\net7.0\ValidString.AssemblyInfoInputs.cache
+C:\Users\Mishael\source\repos\HackerRank\ValidString\obj\Debug\net7.0\ValidString.AssemblyInfo.cs
+C:\Users\Mishael\source\repos\HackerRank\ValidString\obj\Debug\net7.0\ValidString.csproj.CoreCompileInputs.cache
+C:\Users\Mishael\source\repos\HackerRank\ValidString\obj\Debug\net7.0\ValidString.dll
+C:\Users\Mishael\source\repos\HackerRank\ValidString\obj\Debug\net7.0\refint\ValidString.dll
+C:\Users\Mishael\source\repos\HackerRank\ValidString\obj\Debug\net7.0\ValidString.pdb
+C:\Users\Mishael\source\repos\HackerRank\ValidString\obj\Debug\net7.0\ValidString.genruntimeconfig.cache
+C:\Users\Mishael\source\repos\HackerRank\ValidString\obj\Debug\net7.0\ref\ValidString.dll
